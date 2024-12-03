@@ -11,3 +11,7 @@ X
 (contracts/research-breakthrough-nft.clar,8/c/8c4d69968220580113b6e20c5690cdbe170a3dc0
 W
 'tests/research-breakthrough-nft.test.ts,e/b/ebdebc4b0d6a57849dc8f13893721f701430bff7
+X
+(contracts/research-grant-management.clar,0/0/00740b4464f77806ad62ec4f55970282a529daa4
+W
+'tests/research-grant-management.test.ts,7/5/75215bef71ef503fddc45c440b4644f58b09af00

@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/research-breakthrough-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.research-grant-management]
+path = 'contracts/research-grant-management.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
